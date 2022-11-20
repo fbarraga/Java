@@ -1,2 +1,2 @@
-# Curso_java_ee_ejemplos
-Ejemplos del curso Java EE de OpenWebinars.net
+# Curs de Java amb exemples
+Basat en curs de Java de Openwebinars
